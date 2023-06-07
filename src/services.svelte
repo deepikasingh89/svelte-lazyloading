@@ -46,6 +46,25 @@
                   <p>Mobile application development</p>
               </div>
           </div>
+          <div class="p-2 md:w-1/2 w-full">
+              <div class="bg-blue-600 rounded p-4 text-center text-white">
+                  <p>Mobile application design</p>
+              </div>
+          </div>
+          <div class="p-2 md:w-1/2 w-full">
+              <div class="bg-blue-600 rounded p-4 text-center text-white">
+                  <p>Mobile application development</p>
+              </div>
+          </div><div class="p-2 md:w-1/2 w-full">
+              <div class="bg-blue-600 rounded p-4 text-center text-white">
+                  <p>Mobile application design</p>
+              </div>
+          </div>
+          <div class="p-2 md:w-1/2 w-full">
+              <div class="bg-blue-600 rounded p-4 text-center text-white">
+                  <p>Mobile application development</p>
+              </div>
+          </div>
       </div>
       </div>
   </div>
